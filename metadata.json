@@ -1,0 +1,8 @@
+{
+  "name": "PhishLens - Explainable Phishing Risk Analysis",
+  "description": "Explainable phishing detection & risk analysis tool for URLs and messages with rule-based heuristics and risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
